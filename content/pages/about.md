@@ -5,17 +5,15 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+# Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Desarrollador Web
+> Estudainte de Mecatrónica
+> Apasionado por la tecnologia y la musica
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+## Breve descripcion de mi persona
 
+Un joven que le gusta aprender tanto por gusto de saber cosas nuevas como crecer profesionalemente,
+nacido en Jalisco, criado en Sinaloa, con pasiones por la tecnologia y la musica y un gran amor al codigo
